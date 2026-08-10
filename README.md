@@ -7,3 +7,9 @@ Run `crontab -e` to add the line
 ```
 to start monitoring and logging
 
+# Updating wifi credentials
+After reconnecting to the hotspot presented by this raspberry pi, it can be assigned to join a new wifi network with
+```
+raspi-config
+```
+
